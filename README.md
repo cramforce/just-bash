@@ -31,3 +31,5 @@ pnpm typecheck            # tsc across all packages
 
 Per-package commands run via `pnpm --filter <name> <script>` — e.g.
 `pnpm --filter just-bash test:wasm`.
+
+<!-- auto-maintain smoke test -->
